@@ -1,7 +1,6 @@
 import turtle
 wn = turtle.Screen()             # Set up the window and its attributes
 wn.bgcolor("lightgreen")
-
 alex = turtle.Turtle()
 alex.color('Red')
 alex.pensize(width=10)
